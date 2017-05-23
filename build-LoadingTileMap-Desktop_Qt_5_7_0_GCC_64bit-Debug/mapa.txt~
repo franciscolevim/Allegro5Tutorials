@@ -1,0 +1,19 @@
+[TileSet]
+tiles.png
+[Map]
+BB XXXXXXXXXXXXXX BB
+B                  B
+   BB BB BB BB BB   
+X                  X
+X  XX XX XX XX XX  X
+X  XX XX XX XX XX  X
+X                  X
+X  XX XX XX XX XX  X
+X  XX XX XX XX XX  X
+X                  X
+X  XX XX XX XX XX  X
+X  XX XX XX XX XX  X
+X                  X
+   BB BB BB BB BB   
+B                  B 
+BB XXXXXXXXXXXXXX BB
